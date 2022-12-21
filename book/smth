@@ -1,0 +1,9 @@
+let admin = "John";
+const name = "John";
+
+console.log(admin);
+
+let planetEarth;
+const nameUser = "";
+
+
